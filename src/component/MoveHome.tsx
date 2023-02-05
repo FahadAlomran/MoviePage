@@ -75,7 +75,7 @@ function MoveHome() {
       
 
       <Box bg="black" >
-        <SimpleGrid columns={4} spacing={1}>
+        <SimpleGrid columns={5} spacing={1}>
           <Movie
             name="Black Adam"
             imgUrl="https://upload.wikimedia.org/wikipedia/en/a/a9/Black_Adam_%28film%29_poster.jpg"
